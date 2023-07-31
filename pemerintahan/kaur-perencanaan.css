@@ -113,8 +113,8 @@
   line-height: 0.7;
   letter-spacing: 0px;
   font-size: 0.875rem;
-  margin: 0;
-  padding: 11px 78px 13px 77px;
+  margin: 35px -4px 0 3px;
+  padding: 11px 89px 13px 88px;
 }
 
 .u-section-1 .u-icon-7 {
@@ -126,8 +126,8 @@
   line-height: 0.7;
   letter-spacing: 0px;
   font-size: 0.875rem;
-  margin: 0 -1px;
-  padding: 11px 89px 13px 88px;
+  margin: -71px -4px 0 4px;
+  padding: 11px 78px 13px 77px;
 }
 
 .u-section-1 .u-icon-8 {
@@ -139,8 +139,8 @@
   line-height: 0.7;
   letter-spacing: 0px;
   font-size: 0.875rem;
-  margin: 0 auto;
-  padding: 11px 66px 13px 65px;
+  margin: 35px 0 0;
+  padding: 12px 66px;
 }
 
 .u-section-1 .u-icon-9 {
@@ -153,7 +153,7 @@
   letter-spacing: 0px;
   font-size: 0.875rem;
   margin: 0 auto;
-  padding: 11px 66px 13px 64px;
+  padding: 12px 66px 13px 64px;
 }
 
 .u-section-1 .u-icon-10 {
@@ -165,8 +165,8 @@
   line-height: 0.7;
   letter-spacing: 0px;
   font-size: 0.875rem;
-  margin: 0 auto;
-  padding: 12px 79px 13px 77px;
+  margin: 0 auto 0 4px;
+  padding: 12px 78px 12px 77px;
 }
 
 .u-section-1 .u-icon-11 {
@@ -207,8 +207,8 @@
 
 .u-section-1 .u-image-1 {
   width: 802px;
-  height: 1139px;
-  margin: 30px 36px 0;
+  height: 1140px;
+  margin: 30px auto 0;
 }
 
 @media (max-width: 1199px) {
@@ -234,12 +234,32 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 450px;
+    min-height: 1151px;
+  }
+
+  .u-section-1 .u-btn-8 {
+    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-1 .u-btn-9 {
-    margin-left: 0;
     margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-10 {
+    padding: 11px 63px 13px 62px;
+  }
+
+  .u-section-1 .u-btn-11 {
+    padding-top: 11px;
+    padding-right: 41px;
+    padding-left: 39px;
+  }
+
+  .u-section-1 .u-btn-12 {
+    margin-left: 0;
+    padding: 11px 21px 13px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -261,9 +281,7 @@
 
   .u-section-1 .u-image-1 {
     width: 721px;
-    height: 1024px;
-    margin-left: 0;
-    margin-right: 0;
+    height: 1025px;
   }
 }
 
@@ -282,7 +300,7 @@
 
   .u-section-1 .u-image-1 {
     width: 552px;
-    height: 784px;
+    height: 785px;
   }
 }
 
@@ -302,7 +320,7 @@
 
   .u-section-1 .u-image-1 {
     width: 540px;
-    height: 767px;
+    height: 768px;
   }
 }
 
@@ -317,6 +335,6 @@
 
   .u-section-1 .u-image-1 {
     width: 340px;
-    height: 483px;
+    height: 484px;
   }
 }
